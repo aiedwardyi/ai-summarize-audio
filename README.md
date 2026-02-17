@@ -16,7 +16,7 @@ A local Python application that transcribes audio files using **OpenAI's Whisper
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com
+git clone https://github.com/aiedwardyi/ai-summarize-audio.git
 cd speech-to-text
 ```
 
