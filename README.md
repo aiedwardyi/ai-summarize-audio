@@ -51,6 +51,6 @@ python speech_analyzer.py
 Open the local URL provided in the terminal (usually http://127.0.0.1:7860) in your browser.
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Copyright (c) 2024 aiedwardyi
+Copyright (c) 2026 aiedwardyi
